@@ -29,7 +29,7 @@ signatures below, as a starting point.
 ## Part 01: Cargo ##
 
 Don't clone your GitHub repository just yet.
-To start off, let's create a new Rust library: `cargo new hw01`.
+To start off, let's create a new Rust library: `cd hw01 && cargo init --lib`.
 
 If you are not already in a git repository when you create your project, Cargo
 will create a git repository (and `.gitignore`) for you. Then, you can add this
